@@ -7,7 +7,7 @@ No.1-S2-Sun - Technical Review files
 </div>
 <br>
 Author: Cosimo Orlando.<br>
-Blog: http://creativityslashdesign.tk/
+Blog: http://creativityslashdesign.com/
 <br>
 Template files for No.1 S2 Sun.
 <br>
